@@ -72,9 +72,9 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ### Create a Tech-Moms Annual Report Dashboard 
 
-- [X] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
-- [X] See last year's annual report for inspiration 
-- [X] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread. 
+- [ ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
+- [ ] See last year's annual report for inspiration 
+- [ ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread. 
 
 ## Additional Resources: 
 
